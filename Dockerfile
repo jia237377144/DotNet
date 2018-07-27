@@ -1,0 +1,2 @@
+from centos
+run yum update
